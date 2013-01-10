@@ -1,0 +1,7 @@
+{
+    "require": {
+        "bigelephant/xf-console": "1.0.*",
+        "bigelephant/xf-tools": "1.0.*"
+    },
+    "minimum-stability": "dev"
+}
