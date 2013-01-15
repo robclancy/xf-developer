@@ -1,4 +1,4 @@
-XenForo Console
+XenForo Developer
 ==========
 
-Console component for working with XenForo.
+A group of components to help with developing your XenForo apps.
